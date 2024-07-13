@@ -1,0 +1,15 @@
+{
+  "name": "itc-bot",
+  "version": "1.0.0",
+  "description": "Bot ufficiale per la VTC Italian Truck Company 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bitpredator",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discordjs-reaction-role": "^1.0.2"
+  }
+}
